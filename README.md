@@ -112,8 +112,8 @@ AI-Inventory-Forecast/
 ## 📌 Author
 **Sadeed Khan**  
 - Data Science & Machine Learning Enthusiast  
-- GitHub: [github.com/sadeed](https://github.com/your-username)  
-- LinkedIn: [linkedin.com/in/sadeed](https://linkedin.com/in/your-linkedin)
+- GitHub: [github.com/sadeed](https://github.com/MD-SadeedKhan)  
+- LinkedIn: [linkedin.com/in/sadeed](https://www.linkedin.com/in/sadeed-khan29/)
 
 ---
 
